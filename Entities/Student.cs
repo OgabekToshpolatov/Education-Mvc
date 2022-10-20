@@ -16,5 +16,4 @@ public class Student
    [Obsolete("this constroctor obly be used by Ef Core")]
    public Student() {}
 
-   //Rampampam  Rampampam Rampampam Rampampam Rampampam Rampampam
 }
